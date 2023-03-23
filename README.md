@@ -20,7 +20,6 @@ Opa Beleza? Marco Antônio aqui, para os mais tranquilos e sossegados, pode cham
   <img align="center" alt="MarcoAntônio-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="MarcoAntônio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="MarcoAntônio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="right" alt="Marco-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/123275048?v=4" />
 </div>
   
   ##
