@@ -5,9 +5,9 @@ Opa Beleza? Marco Antônio aqui, para os mais tranquilos e sossegados, pode cham
 - &#129409; Estudando Python!!!
 
 <div align="center">
-  <a href="https://github.com/am3rco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=am3rco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3rco&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/MarcosVxny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosVinicius&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVinicius&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 <div style="display: inline_block"><br>
