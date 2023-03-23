@@ -2,6 +2,7 @@
 Opa Beleza? Marco Antônio aqui, para os mais tranquilos e sossegados, pode chamar de Marcola!! 👋
 
 - 🌱 Estudando Linguagem Java!!!
+- &#129409; Estudando Python!!!
 
 <div align="center">
   <a href="https://github.com/am3rco">
