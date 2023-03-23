@@ -1,11 +1,11 @@
 Opa Beleza ? Marco Antônio aqui, para os mais tranquilos e sossegados, pode chamar de Marcola!! 👋
 
-- 🌱 Estudando Linguagem Java !!!
-
+- 🌱 Estudando Linguagem Java!!!
+- &#129409; Estudando Python!!!
 
 <div align="center">
   <a href="https://github.com/am3rco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=am3rco&show_icons=true&theme=dracula &include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=am3rco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am3rco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -21,12 +21,11 @@ Opa Beleza ? Marco Antônio aqui, para os mais tranquilos e sossegados, pode cha
   <img align="center" alt="MarcoAntônio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
-  
+ 
  <div align="right">
   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/265/technologist-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f4bb.png">
- </div>
+ </div> 
  
-  
 <div>
    <a href="https://www.linkedin.com/in/marcomarco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "emailto:am3rco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
