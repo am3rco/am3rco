@@ -23,9 +23,7 @@ Opa Beleza? Marco Antônio aqui, para os mais tranquilos e sossegados, pode cham
 </div>
   
   ##
- <div align="right"> 
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/265/technologist-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f4bb.png">
- </div> 
+ 
  
 
 <div>
